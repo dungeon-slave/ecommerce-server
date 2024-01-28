@@ -9,3 +9,6 @@
 /ecommerce_be_flutter
 
 /ecommerce_be_client/lib/src/protocol
+
+*generated/
+/ecommerce_be_server/migrations/
