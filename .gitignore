@@ -4,4 +4,8 @@
 *analysis_options.yaml
 *windows
 *web
-*ecommerce_be_flutter
+
+# TODO should be removed in future
+/ecommerce_be_flutter
+
+/ecommerce_be_client/lib/src/protocol
