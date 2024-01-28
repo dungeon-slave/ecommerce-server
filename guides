@@ -1,6 +1,6 @@
 Start your Serverpod by running:
 
-	--Make sure that Docker is running!--
+	--Make sure that Docker with redis and PostgresSQL is running!--
 
 	cd .\ecommerce_be_server\
 	docker compose up --build --detach
