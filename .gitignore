@@ -1,0 +1,7 @@
+*.md
+*.lock
+*.metadata
+*analysis_options.yaml
+*windows
+*web
+*ecommerce_be_flutter
