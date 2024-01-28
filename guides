@@ -1,7 +1,7 @@
-Make sure that Docker is running!!!
-
 Start your Serverpod by running:
 
-   $ cd .\ecommerce_be_server\
-   $ docker compose up --build --detach
-   $ dart .\bin\main.dart --apply-migrations
+	--Make sure that Docker is running!--
+
+	cd .\ecommerce_be_server\
+	docker compose up --build --detach
+	dart .\bin\main.dart --apply-migrations
